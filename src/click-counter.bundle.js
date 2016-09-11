@@ -1,0 +1,1 @@
+console.error("SyntaxError: /home/yhorie/work/sandbox-react2/src/click-counter.js: Unexpected token (18:6) while parsing file: /home/yhorie/work/sandbox-react2/src/click-counter.js");
